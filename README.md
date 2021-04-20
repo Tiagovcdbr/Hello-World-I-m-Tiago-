@@ -16,8 +16,4 @@ Currently focusing on Front-End development for a future Full-Stack developer.
 
 Thanks for the opportunity.
 
-LINK_LINKEDIN = https://www.linkedin.com/in/tiago-silva-68791690/
-
-LINK_DigitalInnovationOne = https://web.digitalinnovation.one/home
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=LINK_LINKEDIN = https://www.linkedin.com/in/tiago-silva-68791690/
+[![Tiagovcdbr GitHub stats](https://github-readme-stats.vercel.app/api?username=Tiagovcdbr)](https://github.com/Tiagovcdbr/github-readme-stats)
