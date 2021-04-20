@@ -1,9 +1,9 @@
-## Hello World, I'm Tiago!
+# Hello World, I'm Tiago!
 
 
 ===========================================
 
-# Welcome!
+## Welcome!
 
 I am studying Higher in Analysis and systems development,
 I have a great interest in the programming area, which today is my professional goal.
